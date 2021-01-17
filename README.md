@@ -4,3 +4,5 @@
 
 ``` http://fizyka.umk.pl/~milosz/AiSD/Lab-AiSD20.pdf ```
 autor rozwiazan Karol Kazmierczak 303156
+
+zadanie 1 zrobione
