@@ -3,6 +3,6 @@
 3 lista zadan z Alogrytmow
 
 ``` http://fizyka.umk.pl/~milosz/AiSD/Lab-AiSD20.pdf ```
-autor rozwiazan Karol Kazmierczak 303156
+autor rozwiazan Karol Kazmierczak 
 
 zadanie 1 zrobione
